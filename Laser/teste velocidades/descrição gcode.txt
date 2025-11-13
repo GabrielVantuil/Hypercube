@@ -1,0 +1,4 @@
+testa 3 velocidades (faixas de 2x24mm)
+250
+500
+1500
